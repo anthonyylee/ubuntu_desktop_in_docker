@@ -1,4 +1,4 @@
-name: ci
+name: dockerhub_build_push
 
 on:
   push:
